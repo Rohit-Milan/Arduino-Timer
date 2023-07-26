@@ -5,4 +5,4 @@ The code does the following actions:\
 2)Turns on the LED connected at pin 5 of the Arduino when an interrupt occurs at pin 3\
 3)The LED remains ON for 2 seconds and turns OFF\
 \
-The code eliminates the use of delay() function hence enabling parallel flow of control while implementing timed actions\
+The code eliminates the use of delay() function hence enabling parallel flow of control while implementing timed actions
